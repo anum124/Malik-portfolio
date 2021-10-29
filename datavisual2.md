@@ -4,12 +4,9 @@ By comparing what is owed to what is produced, Debt-to-GDP ratio serves as a key
 
 *Study Source: "Finding The Tipping Point -- When Sovereign Debt Turns Bad". The World Bank. Accessed 29 October, 2021. https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-5391*
 
-<p align="center">
 <iframe src="https://data.oecd.org/chart/6vm2" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vm2" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
- </p>
 
 ### Part 2 
-*"Add text for this second part as well"----------*
-<p align="center">
+Here we see a more detailed picture of the Debt-to-GDP ratio of 45 countries. The timeline of comparison is from 1995 to 2020; however, not all data is available for most countries for all years. After a detailed scan, One can pinpoint that Japan and Greece are the most indebted countries with ratios at 256.9% and 237.61% respectively in 2020. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7667965"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</p>
