@@ -10,6 +10,9 @@ I want to learn how to effectively communicate ideas represented by data; and ac
 # Portfolio
 ## A Fun Sketch 
 ![image](https://user-images.githubusercontent.com/75527838/138967508-ff7e45e2-b3ec-4212-95df-710fcc542a08.png)
-## Assignment 1
+
 ## Assignment 2
+
+[OECD Data](/datavisual2.md)
+
 ## Final Project 
