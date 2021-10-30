@@ -13,6 +13,6 @@ I want to learn how to effectively communicate ideas represented by data; and ac
 
 ## Assignment 2
 
-[OECD Data](/datavisual2.md)
+[OECD Data Visualisations](/datavisual2.md)
 
 ## Final Project 
