@@ -17,3 +17,5 @@ When choosing a visualization to display the Debt-to-GDP ratio, my initial idea 
 In comparison with the bar chart, we see that while both data visuals are focused toward different audiences (the United States versus Europe), the information portrayed is similar in the sense that it depicts the Debt-to-GDP ratio for 2020. The map is actually a subset of the barchart. The grid of line charts is able to lay out 26 years of Debt-to-GDP data in a more cohesive manner; but it is visually challenging to pick out information or form a general opinion regarding the representation. 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/7683143"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Main Portfolio](/README.md)
