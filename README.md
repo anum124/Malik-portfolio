@@ -15,4 +15,9 @@ I want to learn how to effectively communicate ideas represented by data; and ac
 
 [OECD Data Visualisations](/datavisual2.md)
 
+## Assignment 3 and 4
+
+[Bloomberg Graph: Critique and Visualisations](/critiqueandvisuals.md)
+
+
 ## Final Project 
