@@ -6,6 +6,7 @@ The pandemic has been a critical topic of discussion since its devastating start
 ![image](https://user-images.githubusercontent.com/75527838/140686999-61c373af-54ea-4785-bb6a-bc01ff842f9f.png)
 
 Visual Source: https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/
+
 Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports
 
 ### Step 2: Critique the Data Visualization 
