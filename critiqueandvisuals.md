@@ -25,10 +25,7 @@ Perceptibility is a problem because the trendlines are scattered towards the bot
 ### Step 3: Wireframe a Solution
 I thought of three ideas to follow a heatmap, a grid of lines and a bar chart. The heat map did not allow me to visualize the regions as I had originally intended and defining a scale for the number of cases was tough because all the data sources had a different reference point fo good or worse. Furthermore, it was restricting in terms of the timeline; i would only be able to use the average for the month instead of the daily number of cases. I wrote down all the design decisions and thoughts I faced while I sketched and outline as below:
 
-
-
-
-
+![IMG_0018](https://user-images.githubusercontent.com/75527838/140884598-8ecf3438-4987-41c5-808c-317f37d9d6e7.PNG)
 
 ### Step 4: Test the Solutions
 Two people were kind enough to review all three of my sketches and provide quick but useful feedback. Some of the responses to the questions are below:
