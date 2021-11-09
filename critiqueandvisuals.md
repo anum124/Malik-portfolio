@@ -32,7 +32,9 @@ I thought of three ideas to follow a heatmap, a grid of lines and a bar chart. T
 Two people were kind enough to review all three of my sketches and provide quick but useful feedback. Some of the responses to the questions are below:
 
  **Can you tell me what you think this is?**
+ 
  *Response 1: i can see that the all three charts are showing me the number of covid cases for a few countries from May to November 2021.*
+ 
  *Response 2: the increase in the number of covid cases across countries post ease of lockdown measures. That's what the title says for each visual.*
 
 **Is there anything you find confusing**
@@ -44,6 +46,7 @@ Two people were kind enough to review all three of my sketches and provide quick
 **Who do you think is the intended audience for this?**
 
 *Response 1: the countries that have the highest number of covid cases probably.* 
+
 *Response 2: anyone who would want to look at the COVID-19 data or keep up with the current COVID situation.*
 
 **Which of the three visuals should I choose as my final solution?**
@@ -66,3 +69,4 @@ The animated bar chart race below shows the highest number of reported cases of 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7760832"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+[Back to Main Portfolio](/README.md)
