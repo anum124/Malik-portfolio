@@ -27,7 +27,7 @@ Pakistan's air pollution almost doubled from 1998 to 2019. If this continues at 
 - Agriculture Department needs to launch a systematic campaign for educating farmers on the harmful impacts of burning of crop residues and introduce alternative technologies for environmentally safe disposal of crop residue such as converting it into compost or mulch. 
 - Green Industrial processes with resource efficiencies and emission reduction should be implemented in cement manufacturing plants, steel mills and thermal power plants.
 
-Source: [Report of the Smog Commission by the Government of Punjab](/https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf) 
+Source: [Report of the Smog Commission by the Government of Punjab](https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf) 
 
 ## Initial Sketches 
 
@@ -39,21 +39,21 @@ The main data source is the Air Quality Life index calculations which is an init
 [Dataset 1](/aqli_global_data.csv)
 [Dataset 2](/aqli_regional_data_PAK.csv)
 
-To get more granular data, I will extract the daily air quality data from the [IQ Air](/https://www.iqair.com/us/pakistan) and the [Open Data Pakistan](/https://opendata.com.pk/dataset/air-quality-index-may-2019-april-2020/resource/decb72cb-1d47-4c2b-8414-33fb01f763d5/) websites. 
+To get more granular data, I will extract the daily air quality data from the [IQ Air](https://www.iqair.com/us/pakistan) and the [Open Data Pakistan](https://opendata.com.pk/dataset/air-quality-index-may-2019-april-2020/resource/decb72cb-1d47-4c2b-8414-33fb01f763d5/) websites. 
 
-The sources of air pollution are tailled from the [Food and Agricultural Organization of the United Nations in Pakistan](/https://www.fao.org/pakistan/news/detail-events/en/c/1179183/).
+The sources of air pollution are tailled from the [Food and Agricultural Organization of the United Nations in Pakistan](https://www.fao.org/pakistan/news/detail-events/en/c/1179183/).
 
-The data for the increase in number of vehicles will be extracted for all modes of transportation from [here](/https://www.ceicdata.com/en/pakistan/motor-vehicle-production-ministry-of-finance-annual)
+The data for the increase in number of vehicles will be extracted for all modes of transportation from [here](https://www.ceicdata.com/en/pakistan/motor-vehicle-production-ministry-of-finance-annual)
 
-The percentage removal of pollutant with respective dollar value against pollutant type will be taken from the research report on [Air pollution removal by urban trees and shrubs in the United States](/https://www.itreetools.org/documents/55/UFUG_Air_Pollution_Removal.pdf). This will be used as a research case to prove of one the points from the policy recommendations section; an initiative which can be implemented in the short term but has a huge impact in the long term. 
+The percentage removal of pollutant with respective dollar value against pollutant type will be taken from the research report on [Air pollution removal by urban trees and shrubs in the United States](https://www.itreetools.org/documents/55/UFUG_Air_Pollution_Removal.pdf). This will be used as a research case to prove of one the points from the policy recommendations section; an initiative which can be implemented in the short term but has a huge impact in the long term. 
 
 **Data Sources for Literature Review**
-- [Pakistan: Hazardous air puts lives at risk](/https://www.amnesty.org/en/latest/news/2019/10/pakistan-hazardous-air/)
-- [Report of the Smog Commission](/https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf)
-- [Cleaning Pakistan's Air](/https://documents1.worldbank.org/curated/en/701891468285328404/pdf/890650PUB0Clea00Box385269B00PUBLIC0.pdf)
-- [The World Bank Report](/https://www.worldbank.org/en/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion)
+- [Pakistan: Hazardous air puts lives at risk](https://www.amnesty.org/en/latest/news/2019/10/pakistan-hazardous-air/)
+- [Report of the Smog Commission](https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf)
+- [Cleaning Pakistan's Air](https://documents1.worldbank.org/curated/en/701891468285328404/pdf/890650PUB0Clea00Box385269B00PUBLIC0.pdf)
+- [The World Bank Report](https://www.worldbank.org/en/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion)
 
 ## Method and Medium 
 The story will be presented through a mixture of visualizations using the collected datasets, open images and interactive or pop-up charts to convey the message to the audience effectively. The sketched visualization will be rendered using tools such as Tableau and Flourish. Both platforms are very user-friendly and allow one to create complex graphs, like maps across an extended timeline, easily post manipulation of the data-set at hand. The final website will be completed using Shorthand because it allows for an immersive digital experience for the audience and removes the technical complexities of story-telling, i.e the need for web developers or coders, for the content creators. 
 
-[Back to Main Page]
+[Back to Main Page](/README.md)
