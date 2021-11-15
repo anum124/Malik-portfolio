@@ -27,9 +27,7 @@ Pakistan's air pollution almost doubled from 1998 to 2019. If this continues at 
 - Agriculture Department needs to launch a systematic campaign for educating farmers on the harmful impacts of burning of crop residues and introduce alternative technologies for environmentally safe disposal of crop residue such as converting it into compost or mulch. 
 - Green Industrial processes with resource efficiencies and emission reduction should be implemented in cement manufacturing plants, steel mills and thermal power plants.
 
-Source: Report of the Smog Commission by the Government of Punjab 
-URL: https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf
-
+Source: [Report of the Smog Commission by the Government of Punjab](/https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf) 
 
 ## Initial Sketches 
 
@@ -38,12 +36,24 @@ URL: https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf
 ## Data 
 The main data source is the Air Quality Life index calculations which is an initiative of the Energy Policy institute at the University of Chicago. This dataset shows the population, PM 2.5 pollutant measures in micrograms per cubic meters, and the loss in life expectancy given the degrading air quality for 243 regions from 1998 to 2019. Both the global data for world estimates and the regional, country level data for Pakistan will be extracted from this source. 
 
-[Dataset 1](/https://github.com/anum124/Malik-portfolio/blob/main/aqli_global_data.csv)
+[Dataset 1](/aqli_global_data.csv)
+[Dataset 2](/aqli_regional_data_PAK.csv)
 
-[Dataset 2](/https://github.com/anum124/Malik-portfolio/blob/main/aqli_regional_data_PAK.csv)
+To get more granular data, I will extract the daily air quality data from the [IQ Air](/https://www.iqair.com/us/pakistan) and the [Open Data Pakistan](/https://opendata.com.pk/dataset/air-quality-index-may-2019-april-2020/resource/decb72cb-1d47-4c2b-8414-33fb01f763d5/) websites. 
 
+The sources of air pollution are tailled from the [Food and Agricultural Organization of the United Nations in Pakistan](/https://www.fao.org/pakistan/news/detail-events/en/c/1179183/).
+
+The data for the increase in number of vehicles will be extracted for all modes of transportation from [here](/https://www.ceicdata.com/en/pakistan/motor-vehicle-production-ministry-of-finance-annual)
+
+The percentage removal of pollutant with respective dollar value against pollutant type will be taken from the research report on [Air pollution removal by urban trees and shrubs in the United States](/https://www.itreetools.org/documents/55/UFUG_Air_Pollution_Removal.pdf). This will be used as a research case to prove of one the points from the policy recommendations section; an initiative which can be implemented in the short term but has a huge impact in the long term. 
+
+**Data Sources for Literature Review**
+- [Pakistan: Hazardous air puts lives at risk](/https://www.amnesty.org/en/latest/news/2019/10/pakistan-hazardous-air/)
+- [Report of the Smog Commission](/https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf)
+- [Cleaning Pakistan's Air](/https://documents1.worldbank.org/curated/en/701891468285328404/pdf/890650PUB0Clea00Box385269B00PUBLIC0.pdf)
+- [The World Bank Report](/https://www.worldbank.org/en/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion)
 
 ## Method and Medium 
-Data visualizations like the ones sketched above will be done primarily using Tableau and RAWGraphs. These platforms were chosen because of their versatility and ability to create complex graphs in a user-friendly manner. This is especially important because, as seen in the data sources section, my data is coming from a multitude of sources. The visualizations created will be tested and will go through multiple iterations over the course of the project based on user feedback.
+The story will be presented through a mixture of visualizations using the collected datasets, open images and interactive or pop-up charts to convey the message to the audience effectively. The sketched visualization will be rendered using tools such as Tableau and Flourish. Both platforms are very user-friendly and allow one to create complex graphs, like maps across an extended timeline, easily post manipulation of the data-set at hand. The final website will be completed using Shorthand because it allows for an immersive digital experience for the audience and removes the technical complexities of story-telling, i.e the need for web developers or coders, for the content creators. 
 
-The project will include a series of wireframes and storyboards made from the wireframing platform, Balsamiq. These wireframes and storyboards will also be tested and go through multiple iterations based on user feedback. The final website will be completed using Shorthand as the medium. I plan to use Canva in conjunction with Shorthand to add to the story I want to tell using engaging transitions, particularly because my project itself is focused on the transition of an industry
+[Back to Main Page]
