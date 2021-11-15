@@ -38,9 +38,12 @@ URL: https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf
 ## Data 
 The main data source is the Air Quality Life index calculations which is an initiative of the Energy Policy institute at the University of Chicago. This dataset shows the population, PM 2.5 pollutant measures in micrograms per cubic meters, and the loss in life expectancy given the degrading air quality for 243 regions from 1998 to 2019. Both the global data for world estimates and the regional, country level data for Pakistan will be extracted from this source. 
 
-Dataset 1: https://github.com/anum124/Malik-portfolio/blob/main/aqli_global_data.csv
-Dataset 2:
+[Dataset 1]: https://github.com/anum124/Malik-portfolio/blob/main/aqli_global_data.csv
+
+[Dataset 2]: https://github.com/anum124/Malik-portfolio/blob/main/aqli_regional_data_PAK.csv
 
 
 ## Method and Medium 
+Data visualizations like the ones sketched above will be done primarily using Tableau and RAWGraphs. These platforms were chosen because of their versatility and ability to create complex graphs in a user-friendly manner. This is especially important because, as seen in the data sources section, my data is coming from a multitude of sources. The visualizations created will be tested and will go through multiple iterations over the course of the project based on user feedback.
 
+The project will include a series of wireframes and storyboards made from the wireframing platform, Balsamiq. These wireframes and storyboards will also be tested and go through multiple iterations based on user feedback. The final website will be completed using Shorthand as the medium. I plan to use Canva in conjunction with Shorthand to add to the story I want to tell using engaging transitions, particularly because my project itself is focused on the transition of an industry
