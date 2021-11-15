@@ -9,7 +9,7 @@ Pakistan's air pollution almost doubled from 1998 to 2019. If this continues at 
 - Pakistan is the fourth most polluted country in the world. 
 
 **Focus on Pakistan**
-- Pakistan has 212 million inhabitants, making it the fifth most populous country in the world. 
+- Pakistan has 221 million inhabitants, making it the fifth most populous country in the world (The World Bank). 
 - Lahore, Pakistan is one of the most polluted cities in the world. 
 - Air pollution shortens the average Pakistani's life expectancy by 4.3 years as per University of Chicago Air Quality Life Index.
 - According to W.H.O Global Update of Risk assessment,  PM 2.5 estimates in Pakistan are 58 micrograms per cubic meter; which is almost 6 times that of the safety guidelines. 
@@ -36,6 +36,7 @@ URL: https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf
 ![IMG_0019](https://user-images.githubusercontent.com/75527838/141739526-2568417d-2a75-4298-aaca-069276a2d8e8.PNG)
 
 ## Data 
+The main data source is the Air Quality Life index calculations which is an initiative of the Energy Policy institute at the University of Chicago. This dataset shows the population, PM 2.5 pollutant measures in micrograms per cubic meters, and the loss in life expectancy given the degrading air quality for 243 regions from 1998 to 2019. Both the global data for world estimates and the regional, country level data for Pakistan will be extracted from this source. 
 
 
 ## Method and Medium 
