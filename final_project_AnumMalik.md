@@ -38,6 +38,9 @@ URL: https://epd.punjab.gov.pk/system/files/Smog%20commission%20report.pdf
 ## Data 
 The main data source is the Air Quality Life index calculations which is an initiative of the Energy Policy institute at the University of Chicago. This dataset shows the population, PM 2.5 pollutant measures in micrograms per cubic meters, and the loss in life expectancy given the degrading air quality for 243 regions from 1998 to 2019. Both the global data for world estimates and the regional, country level data for Pakistan will be extracted from this source. 
 
+Dataset 1: https://github.com/anum124/Malik-portfolio/blob/main/aqli_global_data.csv
+Dataset 2:
+
 
 ## Method and Medium 
 
