@@ -16,7 +16,7 @@ Pakistan's air pollution almost doubled from 1998 to 2019. If this continues at 
 
 **Sources of Air Pollution**
 - Air quality reaches hazardous levels from the months of October to February. 
-- The number of vehicles in Pakistan has jumped from 3 million in 6.2 million in 12 years (2008 to 2019). 
+- The number of vehicles in Pakistan has jumped from 7 million in 14 million in 12 years (2008 to 2019). 
 - Industrial facilities, particularly those consuming fossil fuels, emit significant amounts of air pollutants. Emissions from large-scale facilities, such as cement, fertilizer, sugar, steel, and power plants—many of which use furnace oil that is high in sulfur content—are a major contributor to poor air quality (Ghauri, Lodhi, and Mansha 2007; Khan 2011)
 - More than 54,000 tons of solid waste are generated daily, most of which is burned (Cleaning Pakistan's Air, World Bank Report).  
 - Farmers in Pakistan burn cane fields to ease harvesting. Harvesting begins in October in Sindh, November in Punjab and the NWFP, and continues until April or May (Food and Agriculture Organization of the UN in Pakistan, FAO). 
