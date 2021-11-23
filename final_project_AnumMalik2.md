@@ -10,15 +10,8 @@ At this step of the project, real data-sets were used to bring the sketches in p
 Preview Link: [Smog Heavy Pakistan: The Next Generation Set to be Hit Hard by Deteriorating Air Quality](https://preview.shorthand.com/5zRQPVKDer75gmjh)
 
 ### User Research
-My **target audience**,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February. Additionally, I want the presentation to be informative toward individuals in sectors     
-
--
-
-Agriculture Department needs to launch a systematic campaign for educating farmers on the harmful impacts of burning of crop residues and introduce alternative technologies for environmentally safe disposal of crop residue such as converting it into compost or mulch.
-Green Industrial processes with resource efficiencies and emission reduction should be implemented in cement manufacturing plants, steel mills and thermal power plants.
-
-Representative individuals to interview:
-
+My **target audience**,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February. Additionally, I want the presentation to be informative toward individuals in sectors identified as leading generators of pollutants or involved with public policy impact. Their reactions could be used to assess whether the intended content of the presentation leading up to the suggestions proposed for green industrial processes and the harmful impacts of burning crop residues is instructive enough.         
+In order to find **representative individuals to interview** as proxy for the target audience....
 
 
 The questions that I intended to ask the interviewees were primarily focused on the logical flow and the persuasiveness of the storyline to inspire audiences to resort to raising awareness about air pollution and to be more involved in initiatives that could improve its currently hazardous status. The mode of conducting the interviews was through an initial video call to explain the reason for the interview. In the call, a link to the storyboard preview was shared with a word document of questions that the individuals filled out and reverted with through email. I used the following **interview script** to get feedback:
@@ -116,15 +109,15 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 **Q.3: Was there anything that confused you?**
 
-*A.3: I thought the graph on cars and buses rising could have been improved a little. Also the "Pakistan's Average Life Expectancy Loss due to Air pollution has Always been Higher than Global Average"- I had to read this a couple of times to process what it meant. Maybe stick with "Pakistan's Average Loss in Life Expectancy is...."* 
+*A.3: I thought the graph on cars and buses rising could have been improved a little. Also the "Pakistan's Average Life Expectancy Loss due to Air pollution has Always been Higher than Global Average"- I had to read this a couple of times to process what it meant. Maybe stick with "Pakistan's Average Loss in Life Expectancy is..."* 
 
 **Q.4: What, according to you, is the most informative section of the presentation?**
 
-*A.4: The causes of the air-pollution is quite informative in my opinion.* 
+*A.4: The first W.H.O data point around Pakistan's PM 2.5 versus what is considered is considered healthy and the causes of the air-pollution is quite informative in my opinion.* 
 
 **Q.5: Are there element(s) that you think are missing or wish were included?**
 
-*A.5: I think the suggestions sections could use a bit more data in it, maybe visuals to make it more appealing and what I as an individual can do to improve air quality .* 
+*A.5: I think the suggestions sections could use a bit more data in it, maybe visuals to make it more appealing and what I as an individual can do to improve air quality. I'm quite interested to see the solutions at the end* 
 
 **Q.6: What is your key feedback on the overall designing? Is there a clear theme that pops out?**
 
