@@ -10,7 +10,15 @@ At this step of the project, real data-sets were used to bring the sketches in p
 Preview Link: [Smog Heavy Pakistan: The Next Generation Set to be Hit Hard by Deteriorating Air Quality](https://preview.shorthand.com/5zRQPVKDer75gmjh)
 
 ### User Research
-My **target audience** is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to 
+My **target audience** ,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February '......'
+
+-
+
+Agriculture Department needs to launch a systematic campaign for educating farmers on the harmful impacts of burning of crop residues and introduce alternative technologies for environmentally safe disposal of crop residue such as converting it into compost or mulch.
+Green Industrial processes with resource efficiencies and emission reduction should be implemented in cement manufacturing plants, steel mills and thermal power plants.
+
+Representative individuals to interview:
+
 
 
 The questions that I intended to ask the interviewees were primarily focused on the logical flow and the persuasiveness of the storyline to inspire audiences to resort to raising awareness about air pollution and to be more involved in initiatives that could improve its currently hazardous status. I used the following **interview script** to get feedback:
