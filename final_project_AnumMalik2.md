@@ -34,9 +34,33 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 
 ### Interviews
-**Response 1**
+**Response 1: 25 Year Old Female; teaching at a pre-school in Pakistan**
 
-**Response 2**
+**Q.1: At first glance, what do you think this presentation is about?**
+*A.1: It is about the increasing pollution in Pakistan and its health implication on the general population.* 
+
+**Q.2: Does the storyline flow smoothly?**
+*A.2: Yes, I think the issues and causes of smog/pollution are presented in a good flow.*
+
+**Q.3: Was there anything that confused you?**
+*A.3: You should explain that smog is caused by pollution and explain what smog is.*
+
+**Q.4: What, according to you, is the most informative section of the presentation?**
+*A.4: The overall use of infographics was helpful especially the pie chart highlighting the major factors contributing to increasing pollution in Pakistan was very informative.* 
+
+**Q.5: Are there element(s) that you think are missing or wish were included?**
+*A.5: I think in the introduction you should explain briefly what exactly smog is.*
+
+**Q.6: What is your key feedback on the overall designing? Is there a clear theme that pops out?**
+*A.6: Yes, the overall design is easy on the eye and infographics are easy to understand.*
+
+**Q.7: Is the content motivating for an audience to employ best practices in reducing air pollution?**
+*A.7: Yes, but you should also add actual pictures of polluted, smog heavy cities so that people can understand the scale of the issue.* 
+
+**Q.8: Do you have any other feedback for improvement?**
+*A.8: You should add which parts of Pakistan is most affected by smog and pollution. And at what time of the year is smog at its peak.*
+
+**Response 2: 38 Year Old Male; working in the energy sector in Pakistan**
 
 **Q.1: At first glance, what do you think this presentation is about?**
 
