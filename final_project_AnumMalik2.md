@@ -37,6 +37,37 @@ The questions that I intended to ask the interviewees were primarily focused on 
 **Response 1**
 
 **Response 2**
+Q.1: At first glance, what do you think this presentation is about?
+
+*A.1: Pollution around the world and how Pakistan ranks within these levels.*
+
+Q.2: Does the storyline flow smoothly?
+
+*A.2: It does give a good flow, but it can also be improved by shocking visual effects that make you go deeper in getting to know your research. I imagine this requires a lot of technical implementations that could not be easily accessible.*
+
+Q.3: Was there anything that confused you?
+
+*A.3: Yes! The big black backgrounds, especially the title. They made me lose. I think the could be improved with dark images related to the topic.*
+
+Q.4: What, according to you, is the most informative section of the presentation?
+
+*A.4: The number of vehicles. It’s a big takeaway and throws a lot of questions such as what are the urban planning policies, if these pollute in the cities or in rural areas, how many cars per inhabitant are there in Pakistan, and so on.*
+
+Q.5: Are there element(s) that you think are missing or wish were included?
+
+*A.5: I think it could be useful to have forecast scenarios of where the things are going. Pakistan is a country that still needs to grow its economy, and burning more fuels is essential for that. What will that future look like?*
+
+Q.6: What is your key feedback on the overall designing? Is there a clear theme that pops out?
+
+*A.6: I really don’t like the contrast between brown in the back and white in the graphs.* 
+
+Q.7: Is the content motivating for an audience to employ best practices in reducing air pollution?
+
+*A.7 It shows facts that are not necessarily related to people’s decisions. Particulate matter can be reduced with efficient fuels, the policy standards at the country level can change, and urban planning can also shift these trends. I think this is such a complicated development issue that it’s tough to ask Pakistan with 14 million cars to use the car less, when a country like the USA, with a similar population, has 276 million vehicles. However, if you purpose is to raise awareness, then this does a great job!*
+
+Q.8: Do you have any other feedback for improvement?
+
+*A.8 No*
 
 **Response 3**
 
