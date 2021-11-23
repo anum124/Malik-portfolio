@@ -10,7 +10,7 @@ At this step of the project, real data-sets were used to bring the sketches in p
 Preview Link: [Smog Heavy Pakistan: The Next Generation Set to be Hit Hard by Deteriorating Air Quality](https://preview.shorthand.com/5zRQPVKDer75gmjh)
 
 ### User Research
-My **target audience** ,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February '......'
+My **target audience** ,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February. Additionally, I want the focus to be on 
 
 -
 
@@ -34,7 +34,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 
 ### Interviews
-**Response 1: 25 Year Old Female; teaching at a pre-school in Pakistan**
+|**Response 1: 25 Year Old Female; teaching at a pre-school in Pakistan**|
 
 **Q.1: At first glance, what do you think this presentation is about?**
 
@@ -96,12 +96,44 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 **Q.7: Is the content motivating for an audience to employ best practices in reducing air pollution?**
 
-*A.7 It shows facts that are not necessarily related to people’s decisions. Particulate matter can be reduced with efficient fuels, the policy standards at the country level can change, and urban planning can also shift these trends. I think this is such a complicated development issue that it’s tough to ask Pakistan with 14 million cars to use the car less, when a country like the USA, with a similar population, has 276 million vehicles. However, if you purpose is to raise awareness, then this does a great job!*
+*A.7: It shows facts that are not necessarily related to people’s decisions. Particulate matter can be reduced with efficient fuels, the policy standards at the country level can change, and urban planning can also shift these trends. I think this is such a complicated development issue that it’s tough to ask Pakistan with 14 million cars to use the car less, when a country like the USA, with a similar population, has 276 million vehicles. However, if you purpose is to raise awareness, then this does a great job!*
 
 **Q.8: Do you have any other feedback for improvement?**
 
-*A.8 No, I think the flow is good. You might need to add a few more elements to make it more cohesive; otherwise job well done!*
+*A.8: No, I think the flow is good. You might need to add a few more elements to make it more cohesive; otherwise job well done!*
 
 **Response 3**
+
+**Q.1: At first glance, what do you think this presentation is about?**
+
+*A.1: I thought the presentation is about the negative effects of air pollution on ordinary Pakistanis.*
+
+**Q.2: Does the storyline flow smoothly?**
+
+*A.2: I believe that the storyline flow made complete sense. From the identification of the global problem to the context in Pakistan. There were key details about the issue in Pakistan and suggestion of solutions for the air pollution problem in the country.*
+
+**Q.3: Was there anything that confused you?**
+
+*A.3: I thought the graph on cars and buses rising could have been improved a little.* 
+
+**Q.4: What, according to you, is the most informative section of the presentation?**
+
+*A.4: The causes of the air-pollution is quite informative in my opinion.* 
+
+**Q.5: Are there element(s) that you think are missing or wish were included?**
+
+*A.5: I think the suggestions sections could use a bit more data in it, maybe visuals to make it more appealing and what I as an individual can do to improve air quality .* 
+
+**Q.6: What is your key feedback on the overall designing? Is there a clear theme that pops out?**
+
+*A.6: I love the colors because it makes data informative and fun to read. Perhaps use of a lighter color background in all sections would make it pop more.* 
+
+**Q.7: Is the content motivating for an audience to employ best practices in reducing air pollution?**
+
+*A.7: It states the case clearly for action. Perhaps actions items should include what ordinary Pakistanis can do on a daily basis.*
+
+**Q.8: Do you have any other feedback for improvement?**
+
+*A.8: The overall structure looks quite good, some minor improvements have been suggested in earlier answers.*
 
 ### Changes for Part 3
