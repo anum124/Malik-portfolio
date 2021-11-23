@@ -36,7 +36,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 
 ### Interviews
-### Response 1: 25 Year Old Female; teaching at a pre-school in Pakistan
+### <u> Response 1: 25 Year Old Female; teaching at a pre-school in Pakistan </u>
 
 **Q.1: At first glance, what do you think this presentation is about?**
 
@@ -70,7 +70,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 *A.8: You should add which parts of Pakistan is most affected by smog and pollution. And at what time of the year is smog at its peak.*
 
-### Response 2: 38 Year Old Male; working in the energy sector in Pakistan
+### <u> Response 2: 38 Year Old Male; working in the energy sector in Pakistan </u>
 
 **Q.1: At first glance, what do you think this presentation is about?**
 
@@ -104,7 +104,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 *A.8: No, I think the flow is good. You might need to add a few more elements to make it more cohesive; otherwise job well done!*
 
-### Response 3:________ 
+### <u> Response 3: 28 year old Male from Pakistan; studying Public Policy at Carnegie Mellon </u>
 
 **Q.1: At first glance, what do you think this presentation is about?**
 
