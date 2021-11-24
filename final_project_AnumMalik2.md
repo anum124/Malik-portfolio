@@ -142,6 +142,7 @@ The consistent feedback across all three respondents was to include impactful im
 5. If found, add visuals on forecasted data for where Pakistan is headed if action is not taken to control the hazardous air quality.
 6. Change the color gradient on the pie chart to be more in line with the theme.
 7. Add a call to action section for how individuals can incorporate best practices in their life to alleviate the situation.
+8. Definitely add impactful imagery along the storyline moves the audience and explains the extent of the difficulties faced.
 
 
 
