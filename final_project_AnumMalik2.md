@@ -132,6 +132,13 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 ## Changes for Part 3
 
+The consistent feedback across all three respondents was to include impactful imagery to tell the story better and work on maintaining the same theme across colors shown in the graphics for an aesthetically pleasing story. Generally, all interviewees agreed that the flow of the story was easy to understand; however, towards the end there could be more useful initiatives included for individuals to make changes in their daily lives to combat the problem that is very much in the forefront for all Pakistanis. Given the very detailed feedback, I identified the following changes to include for the final presentation: 
+
+1. Explain what smog is, how it contributes to air pollution and what time of the year it hits its peak in the introduction.
+2. Add which parts of Pakistan is most affected by smog and pollution.
+3. Include how many cars per inhabitant are there in Pakistan with the vehicles chart.
+4. If found, add visuals on forecasted data for where Pakistan is headed if action is not taken to control the hazardous air quality.
+5. Club the buses 
 
 
 
