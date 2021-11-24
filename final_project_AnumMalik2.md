@@ -9,10 +9,9 @@ At this step of the project, real data-sets were used to bring the sketches in p
 
 Preview Link: [Smog Heavy Pakistan: The Next Generation Set to be Hit Hard by Deteriorating Air Quality](https://preview.shorthand.com/5zRQPVKDer75gmjh)
 
-### User Research
+## User Research
 My **target audience**,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February. Additionally, I want the presentation to be informative toward individuals in sectors identified as leading generators of pollutants or involved with public policy impact. Their reactions could be used to assess whether the intended content of the presentation leading up to the suggestions proposed for green industrial processes and the harmful impacts of burning crop residues is instructive enough.         
-In order to find **representative individuals to interview** as proxy for the target audience....
-
+In order to find **representative individuals to interview** as proxy for the target audience, I moved forward with the realization that my sample set was restricted to individuals in Pakistan. Based on recent discussions and news articles, I was aware that the Government of Pakistan had announced Mondays as an additional day off from schools and offices to control traffic flow and industrial waste contributors to the depleating air quality. Keeping this in mind, I decided to reach out to a teacher, an energy sector employee and a public policy student within my network in Pakistan to gather their feedback on the highlighted issue. The demographics of each individual and their responses are recorded in the interview section below.
 
 The questions that I intended to ask the interviewees were primarily focused on the logical flow and the persuasiveness of the storyline to inspire audiences to resort to raising awareness about air pollution and to be more involved in initiatives that could improve its currently hazardous status. The mode of conducting the interviews was through an initial video call to explain the reason for the interview. In the call, a link to the storyboard preview was shared with a word document of questions that the individuals filled out and reverted with through email. I used the following **interview script** to get feedback:
 
@@ -28,7 +27,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 -	Q.8: Do you have any other feedback for improvement?
 
 
-### Interviews
+## Interviews
 ### <u> Response 1: 25 Year Old Female; teaching at a pre-school in Pakistan </u>
 
 **Q.1: At first glance, what do you think this presentation is about?**
@@ -113,7 +112,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 **Q.4: What, according to you, is the most informative section of the presentation?**
 
-*A.4: The first W.H.O data point around Pakistan's PM 2.5 versus what is considered is considered healthy and the causes of the air-pollution is quite informative in my opinion.* 
+*A.4: The first W.H.O data point around Pakistan's PM 2.5 versus what is considered healthy and the causes of the air-pollution is quite informative in my opinion.* 
 
 **Q.5: Are there element(s) that you think are missing or wish were included?**
 
@@ -125,12 +124,14 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 **Q.7: Is the content motivating for an audience to employ best practices in reducing air pollution?**
 
-*A.7: It states the case clearly for action. Perhaps actions items should include what ordinary Pakistanis can do on a daily basis.*
+*A.7: It states the case clearly for action. Perhaps actions items should include what ordinary Pakistanis can do on a daily basis. The motivation is there but it will be a lot easier to act on once the solutios at the end are built out more, especially if those include some actions we can take as individuals.*
 
 **Q.8: Do you have any other feedback for improvement?**
 
 *A.8: The overall structure looks quite good, some minor improvements have been suggested in earlier answers.*
 
-### Changes for Part 3 Given Feedback
+## Changes for Part 3
+
+
 
 
