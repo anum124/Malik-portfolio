@@ -11,6 +11,7 @@ Preview Link: [Smog Heavy Pakistan: The Next Generation Set to be Hit Hard by De
 
 ## User Research
 My **target audience**,at large, is the citizens of Pakistan focused in the urban centers of the country. These are the people that are most impacted by the hazardous air quality peaking during the winter months; from October to February. Additionally, I want the presentation to be informative toward individuals in sectors identified as leading generators of pollutants or involved with public policy impact. Their reactions could be used to assess whether the intended content of the presentation leading up to the suggestions proposed for green industrial processes and the harmful impacts of burning crop residues is instructive enough.         
+
 In order to find **representative individuals to interview** as proxy for the target audience, I moved forward with the realization that my sample set was restricted to individuals in Pakistan. Based on recent discussions and news articles, I was aware that the Government of Pakistan had announced Mondays as an additional day off from schools and offices to control traffic flow and industrial waste contributors to the depleating air quality. Keeping this in mind, I decided to reach out to a teacher, an energy sector employee and a public policy student within my network in Pakistan to gather their feedback on the highlighted issue. The demographics of each individual and their responses are recorded in the interview section below.
 
 The questions that I intended to ask the interviewees were primarily focused on the logical flow and the persuasiveness of the storyline to inspire audiences to resort to raising awareness about air pollution and to be more involved in initiatives that could improve its currently hazardous status. The mode of conducting the interviews was through an initial video call to explain the reason for the interview. In the call, a link to the storyboard preview was shared with a word document of questions that the individuals filled out and reverted with through email. I used the following **interview script** to get feedback:
@@ -90,7 +91,7 @@ The questions that I intended to ask the interviewees were primarily focused on 
 
 **Q.7: Is the content motivating for an audience to employ best practices in reducing air pollution?**
 
-*A.7: It shows facts that are not necessarily related to people’s decisions. Particulate matter can be reduced with efficient fuels, the policy standards at the country level can change, and urban planning can also shift these trends. I think this is such a complicated development issue that it’s tough to ask Pakistan with 14 million cars to use the car less, when a country like the USA, with a similar population, has 276 million vehicles. However, if you purpose is to raise awareness, then this does a great job!*
+*A.7: It shows facts that are not necessarily related to people’s decisions. Particulate matter can be reduced with efficient fuels, the policy standards at the country level can change, and urban planning can also shift these trends. I think this is such a complicated development issue that it’s tough to ask Pakistan with 14 million cars to use the car less, when a country like the USA has 276 million vehicles. However, if you purpose is to raise awareness, then this does a great job!*
 
 **Q.8: Do you have any other feedback for improvement?**
 
@@ -136,9 +137,11 @@ The consistent feedback across all three respondents was to include impactful im
 
 1. Explain what smog is, how it contributes to air pollution and what time of the year it hits its peak in the introduction.
 2. Add which parts of Pakistan is most affected by smog and pollution.
-3. Include how many cars per inhabitant are there in Pakistan with the vehicles chart.
-4. If found, add visuals on forecasted data for where Pakistan is headed if action is not taken to control the hazardous air quality.
-5. Club the buses 
+3. Use the introductory data that compares Pakistan's PM 2.5 level to the W.H.O standards as a highlighted section for a standout statistic. 
+4. Include how many cars per inhabitant are there in Pakistan and club buses and others together with the vehicles chart to show an improved visual.
+5. If found, add visuals on forecasted data for where Pakistan is headed if action is not taken to control the hazardous air quality.
+6. Change the color gradient on the pie chart to be more in line with the theme.
+7. Add a call to action section for how individuals can incorporate best practices in their life to alleviate the situation.
 
 
 
