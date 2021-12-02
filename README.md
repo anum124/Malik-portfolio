@@ -25,3 +25,6 @@ I want to learn how to effectively communicate ideas represented by data; and ac
 
 
 [Final Project Part 2](/final_project_AnumMalik2.md) 
+
+
+[Final Project Part 3](/final_project_AnumMalik3.md) 
