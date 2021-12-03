@@ -22,6 +22,7 @@ To view the process, user responses and the areas of improvement discovered - pl
 I used the feedback from 'Part 2' to build a more holistic and aesthetically pleasing story in Shorthand. I edited the charts on Flourish, established a more coherent color scheme, added impactful imagery and aligned my story for a supporting analysis from various other sources. The link to the final story and relevant data is outlined below.
 
 - Final Story on Shorthand: https://carnegiemellon.shorthandstories.com/smog-heavy-pakistan/index.html
+
 - Github Data Sources: https://github.com/anum124/Malik-portfolio
 
 Note: more data sources are outlined in the 'References' section in the Shorthand Link.
