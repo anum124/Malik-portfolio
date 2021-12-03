@@ -56,4 +56,6 @@ The percentage removal of pollutant with respective dollar value against polluta
 ## Method and Medium 
 The story will be presented through a mixture of visualizations using the collected datasets, open images and interactive or pop-up charts to convey the message to the audience effectively. The sketched visualization will be rendered using tools such as Tableau and Flourish. Both platforms are very user-friendly and allow one to create complex graphs, like maps across an extended timeline, easily post manipulation of the data-set at hand. The final website will be completed using Shorthand because it allows for an immersive digital experience for the audience and removes the technical complexities of story-telling, i.e the need for web developers or coders, for the content creators. 
 
+[Go to Part 2](/final_project_AnumMalik2.md)
+[Go to Part 3](/final_project_AnumMalik3.md)
 [Back to Main Page](/README.md)
