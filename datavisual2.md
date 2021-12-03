@@ -1,3 +1,5 @@
+[Return to Main Portfolio](/README.md)
+
 ## Assignment 2
 ### Comparing the United States Debt-to-GDP Ratio with OECD Member Countries
 By comparing what is owed to what is produced, Debt-to-GDP ratio serves as a key indicator for a country's ability to pay back its debts. The graph below depicts the 'General Government Debt' of the OECD member countries with an emphasis on United States (U.S). In 2020, the U.S general government debt stood at 161% versus the OECD average of 80%. Though special circumstances may hold, a study by the World Bank concluded that if the Debt-to-GDP ratio of a country exceeds a threshold of 77% for an extended period, it tends to slow down the projected path of economic growth.
@@ -18,4 +20,4 @@ In comparison with the bar chart, we see that while both data visuals are focuse
 
 <div class="flourish-embed flourish-map" data-src="visualisation/7683143"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Main Portfolio](/README.md)
+
