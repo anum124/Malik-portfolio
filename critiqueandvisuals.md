@@ -1,3 +1,5 @@
+[Return to Main Portfolio](/README.md)
+
 ## Assignment 3 and 4
 
 ### Step 1: Find a Data Visualization
@@ -69,4 +71,3 @@ The animated bar chart race below shows the highest number of reported cases of 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7760832"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-[Back to Main Portfolio](/README.md)
