@@ -1,3 +1,10 @@
+[Go to Part 1](/final_project_AnumMalik.md)
+
+[Go to Part 3](/final_project_AnumMalik3.md)
+
+[Back to Main Portfolio](/README.md)
+
+
 ## Final Project: Part 2
 
 ### Storyboard on Shorthand
